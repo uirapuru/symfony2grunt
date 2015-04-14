@@ -1,0 +1,30 @@
+{
+  "name": "symfony2grunt",
+  "version": "0.0.1",
+  "description": "test project to show some weird stuff",
+  "main": "web/app.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "symfony2"
+  ],
+  "author": "Grzegorz Kaszuba",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "coffee": "^1.0.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-exec": "^0.4.6",
+    "less": "^2.5.0"
+  }
+}

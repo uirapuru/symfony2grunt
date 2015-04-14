@@ -1,0 +1,30 @@
+{
+  "name": "symfony2grunt",
+  "version": "0.0.1",
+  "authors": [
+    "Grzegorz Kaszuba <uirapuru@tlen.pl>"
+  ],
+  "description": "test project to show some weird stuff",
+  "main": "web/app.php",
+  "keywords": [
+    "symfony2",
+    "grunt",
+    "cycki"
+  ],
+  "license": "MIT",
+  "homepage": "uirapu.ru",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.4",
+    "jquery-ui": "~1.11.4",
+    "font-awesome": "~4.3.0"
+  }
+}
